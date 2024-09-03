@@ -1,0 +1,11 @@
+{
+    "name": "mahocommerce/maho-language-xx_XX",
+    "description": "xx_XX language pack for Maho ecommerce platform",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "mahocommerce/maho": "*"
+    }
+}
