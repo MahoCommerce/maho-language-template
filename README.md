@@ -8,7 +8,7 @@ It provides localization support for the xx_XX language and region.
 To install this language pack, run the following command in your Maho project directory:
 
 ```bash
-composer require maho-language-xx_XX
+composer require mahocommerce/maho-language-xx_XX
 ```
 
 Then activate the language pack for a website/store/storeview within your Maho backend:
